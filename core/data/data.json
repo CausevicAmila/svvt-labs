@@ -1,0 +1,17 @@
+{
+    "url": {
+        "home_page": "http://www.automationpractice.pl/index.php"
+    },
+    "data":{
+        "email": "halo1234@gmail.com"
+    }, 
+    "credentials": {
+        "name": "Amila",
+        "last_name": "Causevic",
+        "password": "password123"
+    },
+    "verification_message": {
+        "registartion_message": "Your account has been created."
+    }
+
+}
