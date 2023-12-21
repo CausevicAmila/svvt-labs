@@ -1,6 +1,9 @@
 {
     "url": {
-        "home_page": "http://www.automationpractice.pl/index.php"
+        "home_page": "http://www.automationpractice.pl/index.php",
+        "atlant_page": "https://www.atlantbh.com/",
+        "booking":"https://www.phptravels.net/",
+        "guru": "https://demo.guru99.com/test/login.html"
     },
     "data":{
         "email": "halo1234@gmail.com"
@@ -8,10 +11,16 @@
     "credentials": {
         "name": "Amila",
         "last_name": "Causevic",
-        "password": "password123"
+        "password": "password123",
+        "email": "use svvt@test.com",
+        "g_pass": "password"
     },
     "verification_message": {
-        "registartion_message": "Your account has been created."
+        "registartion_message": "Your account has been created.",
+        "succ_login": "Successfully Logged in..."
+    },
+    "header": {
+        "message": "Life @Atlantbh"
     }
 
 }
